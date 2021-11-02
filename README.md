@@ -1,7 +1,7 @@
 # HORISEON HOME PAGE 
 
 ## PROJECT DESCRIPTION 
-For this project my client is a marketing agency that wants there codebase refactored to follow accessibility standards.
+For this project my client is a marketing agency that wants there codebase refactored to follow accessibility standards to optimize the site for search engines.
 
 ## ACCEPTANCE CRITERIA
 
