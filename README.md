@@ -18,6 +18,5 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 
 MOCK-UP
-
-![MOCK-UP](assets\images\horiseon-mock-up.png)
+![MOCK-UP](assets/images/horiseon-mock-up.png)
 
