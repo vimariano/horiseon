@@ -19,4 +19,5 @@ THEN I find a concise, descriptive title
 
 MOCK-UP
 
-![MOCK-UP](C:\Users\Vj\Desktop\challenges\horiseon\assets\images\horiseon-mock-up.png)
+![MOCK-UP](assets\images\horiseon-mock-up.png)
+
