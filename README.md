@@ -1,10 +1,11 @@
-HORISEON HOME PAGE 
+# HORISEON HOME PAGE 
 
 PROJECT DESCRIPTION 
 For this project my client is a marketing agency that wants there codebase refactored to follow accessibility standards.
 
-ACCEPTANCE CRITERIA
+## ACCEPTANCE CRITERIA
 
+```
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code
 THEN I find semantic HTML elements
@@ -16,7 +17,8 @@ WHEN I view the heading attributes
 THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
+```
 
-MOCK-UP
+## MOCK-UP
 ![MOCK-UP](assets/images/horiseon-mock-up.png)
 
